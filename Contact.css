@@ -1,0 +1,85 @@
+header{
+    background-color:aliceblue;
+    display: inline;
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 25px 0 black;
+    border-radius: 8px;
+}
+#header-image{
+    height: 100px;
+    border-radius: 20px;
+}
+header * {
+    display: inline;
+}
+header a {
+    color: black;
+    text-decoration: none;
+}
+header a:hover{
+    opacity: 0.5;
+}
+.navbar{
+    font-size: large;
+    word-spacing: 100px;
+    margin-left: 400px;
+}
+body{
+    background-color: rgb(67, 66, 66);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    align-items:center;
+    color: whitesmoke;
+
+}
+h2{
+    font-size: 20px; 
+    text-decoration: underline;
+    color: whitesmoke;
+}
+h3{
+   font-size: 50px;
+    font-style:bold;
+    text-decoration:underline;
+    color: red;
+   
+}
+h4{
+    font-size: 20px; 
+    text-decoration:underline;
+    color: whitesmoke;
+    
+}
+h5{
+    font-size: 20px;
+    text-decoration:underline;
+    color: whitesmoke;
+    
+}
+h6{
+    font-size: 50px;
+    text-decoration:underline;
+    color: whitesmoke;
+   
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  footer{
+    border-radius: 8px;
+    text-align: center;
+    background-color: aliceblue ;
+  }
