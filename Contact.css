@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(67, 66, 66);
+    text-align: center;
+}
+h1{
+    font-size: 50px;
+    text-decoration: underline;
+    align-items:center;
+    color: whitesmoke;
+
+}
+h2{
+    font-size: 20px; 
+    text-decoration: underline;
+    color: whitesmoke;
+}
+h3{
+   font-size: 50px;
+    font-style:bold;
+    text-decoration:underline;
+    color: red;
+   
+}
+h4{
+    font-size: 20px; 
+    text-decoration:underline;
+    color: whitesmoke;
+    
+}
+h5{
+    font-size: 20px;
+    text-decoration:underline;
+    color: whitesmoke;
+    
+}
+h6{
+    font-size: 50px;
+    text-decoration:underline;
+    color: whitesmoke;
+   
+}
+footer{
+    background-color: white;   
+}
+.fa{
+    
+        padding: 20px;
+        font-size: 100px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+}
