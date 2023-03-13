@@ -1,3 +1,26 @@
+#pic1{
+    width: 1000px;
+    height: 800px;
+    margin: 250px;
+}
+#pic2{ 
+    width: 1000px;
+    height: 800px;
+    margin:250px;
+}
+#pic3{
+    width:1000px;
+    height:800px;
+    margin:250px;
+}
+body{
+    background-image:url(keith-misner-h0Vxgz5tyXA-unsplash.jpg);
+    text-align: center;
+}
+p{ 
+    font-size: 50px;
+    color:beige;
+}
 header{
     background-color:aliceblue;
     display: inline;
@@ -30,31 +53,3 @@ header a:hover{
     word-spacing: 100px;
     margin-left: 400px;
 }
-.container {
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
-   }
-   
-img {
-     max-width: 60vw;
-     max-height:100%;
-     border-radius: 5px;
-   }
-   
-.text {
-    margin-left: 50px;
-   }
-.fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-  }
-  footer{
-    border-radius: 8px;
-    text-align: center;
-    background-color: aliceblue ;
-  }
